@@ -1,0 +1,32 @@
+# Игнорировать все CSV-файлы
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Логи
+*.log
+
+# env
+.env
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# Тестовые html
+*.html 
