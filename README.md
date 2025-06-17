@@ -48,7 +48,7 @@ pip install -r requirements.txt
 1. **Клонируйте репозиторий:**
 ```bash
 git clone ...
-cd Portfolytics
+cd moex-derivatives-opi-tool
 ```
 2. **Установите зависимости** (см. выше)
 3. **Запустите нужную стратегию:**
